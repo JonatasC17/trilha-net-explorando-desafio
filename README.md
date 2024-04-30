@@ -1,3 +1,17 @@
+# Projeto de Hospedagem - Desafio
+Este é um projeto desenvolvido como parte de um desafio de programação. O objetivo do projeto é criar um sistema de hospedagem que permita o cadastro de hóspedes, suítes e reservas, além de calcular o valor da diária e aplicar descontos com base na quantidade de dias reservados.
+
+## Funcionalidades
+Cadastro de hóspedes com nome completo e, opcionalmente, sobrenome.
+Cadastro de suítes com tipo, capacidade e valor da diária.
+Realização de reservas, associando suítes e hóspedes.
+Cálculo do valor da diária com possibilidade de desconto para reservas com 10 dias ou mais.
+Verificação automática da capacidade da suíte antes de cadastrar hóspedes.
+
+-----------------------------------------------------------------------------------------
+
+## Descrição do projeto original DIO 👇🏽
+
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
