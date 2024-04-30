@@ -8,6 +8,17 @@ Realização de reservas, associando suítes e hóspedes.
 Cálculo do valor da diária com possibilidade de desconto para reservas com 10 dias ou mais.
 Verificação automática da capacidade da suíte antes de cadastrar hóspedes.
 
+## Como usar
+Para utilizar o projeto, basta seguir estas etapas:
+
+Clone o repositório para o seu ambiente local.
+Abra o projeto em sua IDE preferida.
+Compile e execute o projeto.
+Siga as instruções fornecidas pela interface de linha de comando para interagir com o sistema de hospedagem.
+
+## Contribuição
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
 -----------------------------------------------------------------------------------------
 
 ## Descrição do projeto original DIO 👇🏽
