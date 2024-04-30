@@ -43,10 +43,23 @@ namespace DesafioProjetoHospedagem.Models
 
             if (DiasReservados >= 10)
             {
-                valor *= 0.9m; 
+                valor *= 0.9m;
             }
 
             return valor;
         }
+
+        public decimal CalcularValorDesconto(Reserva reserva)
+        {
+            decimal valorDesconto = 0;
+
+            if (DiasReservados >= 10)
+            {
+                valorDesconto = reserva.CalcularValorDiaria() * 0.1m;
+            }
+
+            return valorDesconto;
+        }
+
     }
 }
